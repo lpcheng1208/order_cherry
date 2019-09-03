@@ -1,2 +1,2 @@
 # order_cherry
-cherrypy 项目
+cherrypy 轻量级框架
