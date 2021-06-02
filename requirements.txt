@@ -38,5 +38,5 @@ tempora==1.14.1
 tornado==6.0.3
 tzlocal==2.0.0
 url==0.4.2
-urllib3==1.25.3
+urllib3==1.26.5
 zc.lockfile==2.0
